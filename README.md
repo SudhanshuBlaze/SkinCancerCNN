@@ -1,7 +1,6 @@
 # SkinCancerCNN
 
-## Built a web App for our Deep Learning Model and deployed it on Firebase, connected our web app to the domain name which we registered on domain.com:
-https://detectskincancerbu.tech/
+## Built a web App for our Deep Learning Model and deployed it on Firebase, connected our web app to the domain name which we registered on domain.com:https://detectskincancerbu.tech/
 
 
 Data Set: https://www.kaggle.com/fanconic/skin-cancer-malignant-vs-benign
