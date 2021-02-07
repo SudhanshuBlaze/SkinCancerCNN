@@ -1,7 +1,6 @@
 # SkinCancerCNN
 
-Built a web App for our Deep Learning Model and deployed it one Firebase, connected our web app to the domain name which we registered on domain.com:
-
+## Built a web App for our Deep Learning Model and deployed it one Firebase, connected our web app to the domain name which we registered on domain.com:
 https://detectskincancerbu.tech/
 
 
